@@ -13,8 +13,8 @@ streamlit-option-menu = 0.3.6
 
 ####Steps:
 
--**Step 1**- Download .csv files (.csv files are the dataset)
--**Step 2**- Run the .ipynb files by reading the .csv dataset (Using Jupyter notebook and implementing in google colab)
+**Step 1**- Download .csv files (.csv files are the dataset)
+- **Step 2**- Run the .ipynb files by reading the .csv dataset (Using Jupyter notebook and implementing in google colab)
 -**Step 3**- After running the csv file, we get saved model as .sav file
 -**Step 4**- Create app.py and read .sar file
 -**Step 5**- Open disease_prediction.html to run the project 
