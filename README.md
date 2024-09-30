@@ -11,7 +11,7 @@ Requirements:
 - streamlit-option-menu = 0.3.6
 
 
-###Steps:
+##Steps:
 
 - **Step 1**- Download .csv files (.csv files are the dataset)
 - **Step 2**- Run the .ipynb files by reading the .csv dataset (Using Jupyter notebook and implementing in google colab)
