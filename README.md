@@ -34,6 +34,8 @@ Run the command below to install the required dependencies for the Streamlit app
 # Datasets
 - The models are trained on publicly available datasets from trusted healthcare sources, such as the UCI Machine Learning Repository.
 
+# Output Images: 👇🏻
+
   ![image](https://github.com/user-attachments/assets/c2a7d90b-550a-4c03-872e-b1ac00b0e402)
   
   ![image](https://github.com/user-attachments/assets/aed37dbf-b382-4cdf-a4d7-583a76857f93)
