@@ -25,7 +25,7 @@ This project is a Multiple Disease Prediction System that leverages machine lear
 - *Matplotlib & Seaborn:* For data visualization.
 
 # Getting Started
-- *1.Clone the repository:* git clone https://github.com/your-username/multiple-disease-prediction.git
+- *1.Clone the repository:* git clone (https://github.com/RemyaaSree/vmediton_Fourtune/tree/main)
 - *2.Install dependencies:*
 Run the command below to install the required dependencies for the Streamlit app: *pip install -r requirements.txt*
 - *3.Run the application:* streamlit run app.py
