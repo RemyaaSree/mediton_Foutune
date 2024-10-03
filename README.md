@@ -1,23 +1,38 @@
-# vmediton_Fourtune
+# V-MEDITHON
 
-Multiple disease prediction system using Machine learning
+*multiple-disease-prediction-streamlit-app*
 
-This project mainly uses machine learning concepts to predict the disease.
+# Project Overview
+This project is a Multiple Disease Prediction System that leverages machine learning models to predict the likelihood of various diseases, including:
+- *Heart Disease*
+- *Diabetes*
+- *Parkinson's Disease*
+- The system is designed to assist healthcare professionals and individuals in early disease detection, enabling timely medical intervention and potentially improving patient outcomes.
 
-Requirements:
-- numpy = 1.26.3
-- scikit-learn = 1.3.2
-- streamlit = 1.29.0
-- streamlit-option-menu = 0.3.6
+# Features
+- *Heart Disease Prediction:* Based on various health parameters like age, cholesterol levels, and blood pressure.
+- *Diabetes Prediction:* Uses factors such as glucose levels, BMI, and insulin levels.
+- *Parkinson's Disease Prediction:* Uses data points related to speech and motor symptoms.
+- *User-Friendly Interface:* Provides an intuitive interface for inputting patient data and receiving predictions.
+- *Scalable Models:* Machine learning models can be updated or extended to include more diseases.
 
+# Technologies Used
+- *Python:* Core programming language.
+- *Machine Learning Algorithms:* Logistic Regression, Random Forest, SVM, etc.
+- *Scikit-Learn:* For building and evaluating machine learning models.
+- *Streamlit:* To deploy the prediction system as an interactive web application.
+- *Pandas & Numpy:* For data manipulation and numerical computations.
+- *Matplotlib & Seaborn:* For data visualization.
 
-Steps:
+# Getting Started
+- *1.Clone the repository:* git clone https://github.com/your-username/multiple-disease-prediction.git
+- *2.Install dependencies:*
+Run the command below to install the required dependencies for the Streamlit app: *pip install -r requirements.txt*
+- *3.Run the application:* streamlit run app.py
+- *4.Access the application:* Open your web browser and go to the provided URL *(usually http://localhost:8501)*.
 
-- **Step 1**- Download .csv files (.csv files are the dataset)
-- **Step 2**- Run the .ipynb files by reading the .csv dataset (Using Jupyter notebook and implementing in google colab)
-- **Step 3**- After running the csv file, we get saved model as .sav file
-- **Step 4**- Create app.py and read .sar file
-- **Step 5**- Open disease_prediction.html to run the project
+# Datasets
+- The models are trained on publicly available datasets from trusted healthcare sources, such as the UCI Machine Learning Repository.
 
   ![image](https://github.com/user-attachments/assets/c2a7d90b-550a-4c03-872e-b1ac00b0e402)
   
